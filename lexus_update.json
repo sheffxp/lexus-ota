@@ -1,0 +1,6 @@
+{
+  "versionCode": 2,
+  "versionName": "v1.1.0 F-Sport",
+  "changelog": "Исправлена синхронизация с CAN-шиной Lexus RC, добавлен полноэкранный 3D-режим NaviKit SDK, оптимизирован фоновый запуск Яндекс Музыки.",
+  "downloadUrl": "https://ВАШ_ДОМЕН/lexus_launcher_v1.1.0.apk"
+}
