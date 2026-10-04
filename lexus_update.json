@@ -1,5 +1,5 @@
 {
-  "versionCode": 3,
+  "versionCode": 4,
   "versionName": "v1.3.0 F-Sport",
   "changelog": "Исправлена синхронизация с CAN-шиной Lexus RC, добавлен полноэкранный 3D-режим NaviKit SDK, оптимизирован фоновый запуск Яндекс Музыки.",
   "downloadUrl": "https://github.com/sheffxp/lexus-ota/releases/download/v1.1.0/app-x86_64-debug.apk"
